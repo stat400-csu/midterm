@@ -1,0 +1,24 @@
+---
+title: "STAT400 - Midterm"
+author: "Your Name"
+date: "Due 10/30/2020 by 6pm"
+output: pdf_document
+---
+
+Be sure to `set.seed(400)` at the beginning of your exam.
+
+```{r}
+#reproducibility
+set.seed(400)
+```
+
+1. (e) **20 pts** Write `R` code implementing your pseudocode from parts 1. (c) and 1. (d). **(Reproducible Question)**
+
+
+2. (c) **10 pts** Sample $1000$ observations from the density function in part 2 (a). Plot a histogram of your samples with the density overlaid. **(Reproducible Question)**
+
+
+3. (b) **20 pts** Implement your psuedo-code in part 3. (a) to generate 1000 realizations from this distribution via the acceptance-reject algorithm. **(Reproducible Question)**
+  
+
+
